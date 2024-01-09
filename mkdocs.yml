@@ -1,0 +1,17 @@
+site_name: BPGC Wiki
+site_description: A wiki for the BPGC community
+site_url: https://wiki.bpgc.in
+theme:
+  name: material
+  features:
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: slate  
+      primary: purple
+      accent: lime
