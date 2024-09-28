@@ -1,4 +1,5 @@
-# DC Guide
+# DC Setup Guide
 
-## Introduction
-
+- [Windows](Windows/index.md)
+- [Linux](Linux/index.md)
+- [MacOS](MacOS/index.md)
