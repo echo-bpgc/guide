@@ -2,6 +2,6 @@
 
 ## Setup Guides
 
-- [Windows](DC/Windows/index.md)
-- [Linux](DC/Linux/index.md)
-- [MacOS](DC/MacOS/index.md)
+- [Windows](Windows/index.md)
+- [Linux](Linux/index.md)
+- [MacOS](MacOS/index.md)
